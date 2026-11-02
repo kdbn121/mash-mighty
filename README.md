@@ -40,7 +40,7 @@ Full list: [`skills/mash-mighty/references/catalog.md`](skills/mash-mighty/refer
 
 ### Claude Code (full toolkit with hooks)
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/mash-mighty
+/plugin marketplace add kdbn121/mash-mighty
 /plugin install mash-mighty@mash-mighty
 /reload-plugins
 ```
