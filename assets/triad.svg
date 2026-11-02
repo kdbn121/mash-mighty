@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b2e"/>
+    </linearGradient>
+    <linearGradient id="mashwood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22c55e"/><stop offset="1" stop-color="#15803d"/>
+    </linearGradient>
+    <linearGradient id="forge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#c2410c"/>
+    </linearGradient>
+    <linearGradient id="select" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <text x="640" y="92" text-anchor="middle" fill="#ffffff" font-size="64" font-weight="800" letter-spacing="2">MASH-mighty</text>
+  <text x="640" y="136" text-anchor="middle" fill="#94a3b8" font-size="24">The Triad pipeline for AI agents: mashwood answers, proven playbooks, best skill wins</text>
+
+  <rect x="40" y="290" width="150" height="80" rx="16" fill="#1f2937" stroke="#334155" stroke-width="2"/>
+  <text x="115" y="325" text-anchor="middle" fill="#e2e8f0" font-size="22" font-weight="700">Your</text>
+  <text x="115" y="352" text-anchor="middle" fill="#e2e8f0" font-size="22" font-weight="700">prompt</text>
+  <line x1="194" y1="330" x2="232" y2="330" stroke="#94a3b8" stroke-width="4" marker-end="url(#arr)"/>
+
+  <rect x="240" y="210" width="250" height="240" rx="22" fill="url(#mashwood)"/>
+  <text x="365" y="258" text-anchor="middle" fill="#ffffff" font-size="18" font-weight="700" opacity="0.85">STAGE 1 · ALWAYS FIRST</text>
+  <text x="365" y="312" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="800">MASHWOOD</text>
+  <text x="365" y="356" text-anchor="middle" fill="#ecfdf5" font-size="20">Fewest words,</text>
+  <text x="365" y="382" text-anchor="middle" fill="#ecfdf5" font-size="20">every fact kept</text>
+  <text x="365" y="420" text-anchor="middle" fill="#ecfdf5" font-size="16" opacity="0.9">tight · standard · bare</text>
+  <line x1="494" y1="330" x2="532" y2="330" stroke="#94a3b8" stroke-width="4" marker-end="url(#arr)"/>
+
+  <rect x="540" y="210" width="250" height="240" rx="22" fill="url(#forge)"/>
+  <text x="665" y="258" text-anchor="middle" fill="#ffffff" font-size="18" font-weight="700" opacity="0.85">STAGE 2</text>
+  <text x="665" y="312" text-anchor="middle" fill="#ffffff" font-size="48" font-weight="800">FORGE</text>
+  <text x="665" y="356" text-anchor="middle" fill="#fff7ed" font-size="20">327 skills</text>
+  <text x="665" y="382" text-anchor="middle" fill="#fff7ed" font-size="20">77 agents · 118 cmds</text>
+  <text x="665" y="420" text-anchor="middle" fill="#fff7ed" font-size="16" opacity="0.9">code · video · web · research</text>
+  <line x1="794" y1="330" x2="832" y2="330" stroke="#94a3b8" stroke-width="4" marker-end="url(#arr)"/>
+
+  <rect x="840" y="210" width="250" height="240" rx="22" fill="url(#select)"/>
+  <text x="965" y="258" text-anchor="middle" fill="#ffffff" font-size="18" font-weight="700" opacity="0.85">STAGE 3</text>
+  <text x="965" y="312" text-anchor="middle" fill="#ffffff" font-size="48" font-weight="800">SELECT</text>
+  <text x="965" y="356" text-anchor="middle" fill="#eef2ff" font-size="20">Cross-check all</text>
+  <text x="965" y="382" text-anchor="middle" fill="#eef2ff" font-size="20">skills, best wins</text>
+  <text x="965" y="420" text-anchor="middle" fill="#eef2ff" font-size="16" opacity="0.9">fit · access · fresh · depth</text>
+  <line x1="1094" y1="330" x2="1132" y2="330" stroke="#94a3b8" stroke-width="4" marker-end="url(#arr)"/>
+
+  <rect x="1140" y="290" width="110" height="80" rx="16" fill="#1f2937" stroke="#334155" stroke-width="2"/>
+  <text x="1195" y="325" text-anchor="middle" fill="#e2e8f0" font-size="22" font-weight="700">Best</text>
+  <text x="1195" y="352" text-anchor="middle" fill="#e2e8f0" font-size="22" font-weight="700">result</text>
+
+  <rect x="240" y="500" width="850" height="56" rx="12" fill="#0b0f17" stroke="#334155" stroke-width="2"/>
+  <text x="665" y="536" text-anchor="middle" fill="#a5f3fc" font-size="20" font-family="Consolas, Menlo, monospace">Triad: MASHWOOD bare &gt; FORGE review &gt; SELECT react-review skill</text>
+
+  <text x="640" y="608" text-anchor="middle" fill="#64748b" font-size="18">by Khaled Bhuiyan (MASH) · MIT License</text>
+</svg>

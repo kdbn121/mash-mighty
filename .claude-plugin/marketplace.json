@@ -1,0 +1,16 @@
+{
+  "name": "mash-mighty",
+  "owner": { "name": "Khaled Bhuiyan (MASH)" },
+  "metadata": { "description": "MASH-mighty Triad toolkit by MASH" },
+  "plugins": [
+    {
+      "name": "mash-mighty",
+      "source": "./",
+      "description": "MASHWOOD output first, FORGE playbooks, SELECT the best skill. 327 skills, 77 agents, 118 commands, safety hooks.",
+      "version": "1.1.0",
+      "author": { "name": "Khaled Bhuiyan (MASH)" },
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+---
+name: terraform-patterns
+description: Idiomatic Terraform patterns and structure. Use when writing or designing Terraform code (*.tf files).
+---
+
+# Terraform patterns
+
+Apply when writing new Terraform code.
+
+## Do
+- remote state with locking
+- modules for reuse
+- variables typed and validated
+
+## Avoid
+- state committed to git
+- unpinned providers
+- apply without plan review
+
+## Steps
+1. Match the existing project structure and naming.
+2. Apply the Do list; check the Avoid list before finishing.
+3. Keep functions small and named for intent.
+4. Add or update tests with terraform validate + plan.
+
+DONE: code follows the Do list and none of the Avoid list.
+Output: MASHWOOD mode (see the mash-mighty skill). First line is the Triad trace.

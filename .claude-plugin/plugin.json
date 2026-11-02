@@ -1,0 +1,8 @@
+{
+  "name": "mash-mighty",
+  "version": "1.1.0",
+  "description": "MASH-mighty Triad toolkit. MASHWOOD output first, FORGE playbooks, SELECT the best skill. 327 skills, 77 agents, 118 commands and safety hooks for engineering, web, video, Bangla, AI, research, business and content work.",
+  "author": { "name": "Khaled Bhuiyan (MASH)" },
+  "license": "MIT",
+  "keywords": ["skills", "agents", "workflow", "video", "bangla", "web", "research", "productivity", "mashwood-output"]
+}
