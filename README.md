@@ -31,7 +31,7 @@ Triad: MASHWOOD bare > FORGE nextjs-build-fix > SELECT nextjs-build-fix
 | Task skills | 145 | **text-to-video, auto-video-edit, bangla-music-subtitles, one-prompt-website, animated-premium-website, search-console-questions, design-director**, reels, storyboards, ffmpeg recipes, code review, security audit, deploy, RAG, agents, literature review, reviewer responses, pitch decks, pricing, social calendars, Bangla Unicode and translation, PDFs, CVs, lesson plans and more |
 | Core skills | 2 | `mash-mighty` (Triad router), `mashwood-mode` |
 | Agents | 77 | 45 stack reviewers + 32 specialists (architect, security guardian, video producer, subtitle specialist, web builder, research scientist, academic editor, grant advisor and more) |
-| Commands | 115 | `check-STACK` (build + tests + review) and `start-TASK` (launch a workflow) |
+| Commands | 118 | `check-STACK` (build + tests + review) and `start-TASK` (launch a workflow) |
 | Hooks | 4 | Triad reminder each prompt, shell safety guard (blocks disk wipes, asks before force-push or DROP), secret scan after file edits |
 
 Full list: [`skills/mash-mighty/references/catalog.md`](skills/mash-mighty/references/catalog.md)
