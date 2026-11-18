@@ -5,7 +5,7 @@ description: MASH-mighty Triad pipeline for any task or project. MASHWOOD output
 
 # MASH-mighty
 
-The MASH-mighty Triad. Created by Khaled Bhuiyan (MASH). MIT License.
+The MASH-mighty Triad. Created by MASH (Khaled Bhuiyan). MIT License.
 
 Three stages, fixed order, every prompt:
 
