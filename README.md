@@ -88,4 +88,4 @@ LICENSE           MIT
 
 ## License
 
-[MIT](LICENSE) © 2026 Khaled Bhuiyan (MASH). Free to use, change and share. Keep the copyright notice.
+[MIT](LICENSE) © 2026 MASH (Khaled Bhuiyan). Free to use, change and share. Keep the copyright notice.
